@@ -18,5 +18,5 @@ if __name__ == '__main__':
 def test_first():
     assert 3 > 1
 
-def test_two():
+def test_second():
     assert 3 > 2
